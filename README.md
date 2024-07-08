@@ -1,6 +1,6 @@
 # Weather App 🌦️
 
-## Introduction
+## Introduction changed
 
 This is a simple web-based weather application that allows users to check the weather for a specific city. Users can enter the name of a city, and the application will display the current weather conditions for that city, including Temperature, Humidity, Wind speed, and an icon representing the weather condition.
 
